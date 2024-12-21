@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuelCalculatorAPI", "FuelCalculatorAPI\FuelCalculatorAPI.csproj", "{40A3DB23-022C-4634-8368-B854B18686F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{02936494-7F90-4C9B-A02B-15010B8BCCED}"
+	ProjectSection(SolutionItems) = preProject
+		railway.toml = railway.toml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40A3DB23-022C-4634-8368-B854B18686F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A3DB23-022C-4634-8368-B854B18686F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A3DB23-022C-4634-8368-B854B18686F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A3DB23-022C-4634-8368-B854B18686F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02BD0C62-1D02-4204-8A0D-8DA68ADD8516}
+	EndGlobalSection
+EndGlobal
